@@ -1,0 +1,4 @@
+otro archivo para leer
+aaaa
+texto texto
+node ez
